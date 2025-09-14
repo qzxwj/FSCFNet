@@ -89,7 +89,7 @@ python train.py
 ## Results and Trained Models
 
 #### Qualitative Results
-![Image text](https://github.com/xdFai/SCTransNet/blob/main/Fig/picture06.png)
+![Image text](https://github.com/qzxwj/FSCFNet/blob/main/figures/FSCFNetResult.png)
 
 *The overall repository style is highly borrowed from [ultralytics](https://github.com/ultralytics/ultralytics). Thanks to ultralytics.
 
