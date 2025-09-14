@@ -112,4 +112,4 @@ If you find the code useful, please consider citing our paper using the followin
 
 
 ## Contact
-**Welcome to raise issues or email to [wjxu@nuist.edu.cn](wjxu@nuist.edu.cn) for any question regarding our SCTransNet.**
+**Welcome to raise issues or email to [wjxu@nuist.edu.cn](wjxu@nuist.edu.cn) for any question regarding our FSCFNet.**
