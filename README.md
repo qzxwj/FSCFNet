@@ -93,7 +93,22 @@ python train.py
 
 *The overall repository style is highly borrowed from [ultralytics](https://github.com/ultralytics/ultralytics). Thanks to ultralytics.
 
+## Citation
 
+If you find the code useful, please consider citing our paper using the following BibTeX entry.
+
+```
+@ARTICLE{11175146,
+  author={Xu, Weijie and Ding, Zhenglong and Wang, Ziheng and Cui, Zhiqing and Hu, Yifan and Jiang, Feng},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Think Locally and Act Globally: A Frequency–Spatial Fusion Network for Infrared Small Target Detection}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-17},
+  keywords={Power capacitors;Frequency-domain analysis;Feature extraction;Convolution;Accuracy;Training;Location awareness;Discrete wavelet transforms;Clutter;Artificial intelligence;Attention mechanism;frequency–spatial domain fusion;infrared small target detection (IRSTD);remote sensing;wavelet transform (WT)},
+  doi={10.1109/TGRS.2025.3612417}}
+```
 
 ## Contact
 **Welcome to raise issues or email to [wjxu@nuist.edu.cn](wjxu@nuist.edu.cn) for any question regarding our FSCFNet.**
