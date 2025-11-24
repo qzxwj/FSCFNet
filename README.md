@@ -1,4 +1,4 @@
-# Think Locally, Act Globally: A Frequency Spatial Fusion Network for Infrared Small Target Detection [[Paper]](https://ieeexplore.ieee.org/document/10486932)
+# Think Locally, Act Globally: A Frequency Spatial Fusion Network for Infrared Small Target Detection [[Paper]](https://ieeexplore.ieee.org/document/11175146)
 
 Weijie Xu, Zhenglong Ding, Ziheng Wang, Zhiqing Cui, Yifan Hu, and Feng Jiang, IEEE Transactions on Geoscience and Remote Sensing 2025.
 
